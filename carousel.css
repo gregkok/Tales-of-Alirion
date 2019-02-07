@@ -207,3 +207,8 @@ body {
 .images .equation {
   font-size: 300%;
 }
+.button {
+  max-width: 17%;
+  margin-left: auto;
+  margin-right: auto;
+}
