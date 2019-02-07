@@ -33,6 +33,9 @@ body {
   min-width: 100%;
   height: 60rem;
 }
+.text-right h1, .text-right p {
+  color: black;
+}
 
 
 /* MARKETING CONTENT
